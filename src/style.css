@@ -13,13 +13,15 @@ span {
 
 img {
 	position: absolute;
-	height: 900px;
+	margin-top: 85px;
+	margin-left: 175px;
+	height: 720px;
 }
 
 #description {
 	position: absolute;
-	margin-left: 900px;
-	margin-top: 200px;
+	margin-left: 800px;
+	margin-top: 150px;
 	width: 300px;
 	border-style: solid;
 	border-color: rgb(150, 150, 150);
@@ -340,12 +342,250 @@ img {
 /* Responsive versione mobile */
 @media only screen and (max-width: 600px) {
 	#description {
-		margin-top: 900px;
-		margin-left: 20px;
+		margin-top: 420px;
+		margin-left: 10px;
+		margin-bottom: 10px;
+		max-width: 80%;
+		border: none;
 	}
 
 	img {
-		position: absolute;
-		height: 600px;
+		height: 360px;
+		margin-top: 30px;
+		margin-left: 30px;
 	}
+
+/* City */
+	#Stabio {
+		height: 15px;
+		width: 15px;
+		margin-top: 372px;
+		margin-left: 210px;
+	}
+
+	#Chiasso {
+		height: 15px;
+		width: 15px;
+		margin-top: 372px;
+		margin-left: 240px;
+	}
+
+	#Mendrisio {
+		height: 15px;
+		width: 30px;
+		margin-top: 350px;
+		margin-left: 228px;
+	}
+
+	#Campione {
+		height: 15px;
+		width: 15px;
+		margin-top: 325px;
+		margin-left: 228px;
+	}
+
+	#Lugano {
+		height: 30px;
+		width: 15px;
+		margin-top: 290px;
+		margin-left: 205px;
+	}
+
+	#Rivera {
+		height: 15px;
+		width: 15px;
+		margin-top: 255px;
+		margin-left: 205px;
+	}
+
+	#Bellinzona {
+		height: 15px;
+		width: 30px;
+		margin-top: 205px;
+		margin-left: 205px;
+	}
+
+	#Tenero {
+		height: 15px;
+		width: 15px;
+		margin-top: 220px;
+		margin-left: 170px;
+	}
+
+	#Locarno {
+		height: 15px;
+		width: 30px;
+		margin-top: 220px;
+		margin-left: 120px;
+	}
+
+	#Sonogno {
+		height: 15px;
+		width: 15px;
+		margin-top: 150px;
+		margin-left: 170px;
+	}
+
+	#Maggia {
+		height: 15px;
+		width: 15px;
+		margin-top: 180px;
+		margin-left: 120px;
+	}
+
+	#Biasca {
+		height: 15px;
+		width: 15px;
+		margin-top: 140px;
+		margin-left: 205px;
+	}
+
+	#Ambrì {
+		height: 15px;
+		width: 15px;
+		margin-top: 90px;
+		margin-left: 150px;
+	}
+
+	#Airolo {
+		height: 15px;
+		width: 15px;
+		margin-top: 90px;
+		margin-left: 90px;
+	}
+
+	#Gottardo {
+		height: 15px;
+		width: 15px;
+		margin-top: 50px;
+		margin-left: 90px;
+	}
+
+/* route */
+	#route001 {
+		height: 15px;
+		width: 20px;
+		margin-top: 372px;
+		margin-left: 225px;
+	}
+
+	#route002 {
+		height: 12px;
+		width: 15px;
+		margin-top: 360px;
+		margin-left: 228px;
+	}
+
+	#route003 {
+		height: 30px;
+		width: 15px;
+		margin-top: 700px;
+		margin-left: 578px;
+	}
+
+	#route004 {
+		height: 15px;
+		width: 50px;
+		margin-top: 682.5px;
+		margin-left: 532.5px;
+	}
+
+	#route005 {
+		height: 22.5px;
+		width: 15px;
+		margin-top: 660px;
+		margin-left: 532.5px;
+	}
+
+	#route006 {
+		height: 60px;
+		width: 15px;
+		margin-top: 560px;
+		margin-left: 532.5px;
+	}
+
+	#route007 {
+		height: 80px;
+		width: 15px;
+		margin-top: 460px;
+		margin-left: 532.5px;
+	}
+
+	#route008 {
+		height: 15px;
+		width: 52.5px;
+		margin-top: 472.5px;
+		margin-left: 480px;
+	}
+
+	#route009 {
+		height: 110px;
+		width: 15px;
+		margin-top: 360px;
+		margin-left: 462.5px;
+	}
+
+	#route010 {
+		height: 15px;
+		width: 100px;
+		margin-top: 342.5px;
+		margin-left: 372.5px;
+	}
+
+	#route011 {
+		height: 60px;
+		width: 15px;
+		margin-top: 342.5px;
+		margin-left: 372.5px;
+	}
+
+	#route012 {
+		height: 50px;
+		width: 15px;
+		margin-top: 420px;
+		margin-left: 372.5px;
+	}
+
+	#route013 {
+		height: 15px;
+		width: 50px;
+		margin-top: 472.5px;
+		margin-left: 410px;
+	}
+
+	#route014 {
+		height: 100px;
+		width: 15px;
+		margin-top: 340px;
+		margin-left: 532.5px;
+	}
+
+	#route015 {
+		height: 100px;
+		width: 15px;
+		margin-top: 240px;
+		margin-left: 532.5px;
+	}
+
+	#route016 {
+		height: 15px;
+		width: 110.5px;
+		margin-top: 222.5px;
+		margin-left: 440px;
+	}
+
+	#route017 {
+		height: 15px;
+		width: 100px;
+		margin-top: 222.5px;
+		margin-left: 320px;
+	}
+
+	#route018 {
+		height: 90px;
+		width: 15px;
+		margin-top: 150px;
+		margin-left: 302.5px;
+	}
+
 }
