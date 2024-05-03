@@ -1,0 +1,286 @@
+
+html {
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+#title {
+	font-size: 18pt;
+}
+
+img {
+	position: absolute;
+	height: 900px;
+}
+
+#description {
+	position: absolute;
+	margin-left: 900px;
+	margin-top: 200px;
+	min-height: 200px;
+	width: 300px;
+	border-style: solid;
+	border-color: rgb(0, 0, 0);
+	border-radius: 3px;
+	padding: 20px;
+	display: none;
+}
+
+.city {
+	position: absolute;
+	background-color: rgb(255, 0, 0);
+	border-radius: 4px;
+	border-style: solid;
+	border-color: rgb(255, 255, 255);
+}
+
+	.city:hover {
+		background-color: rgb(200, 0, 0);
+	}
+
+	.city:active {
+		background-color: rgb(255, 50, 50);
+	}
+
+	#Stabio {
+		height: 22px;
+		width: 22px;
+		margin-top: 767.5px;
+		margin-left: 555px;
+	}
+
+	#Chiasso {
+		height: 22px;
+		width: 22px;
+		margin-top: 767.5px;
+		margin-left: 595px;
+	}
+
+	#Mendrisio {
+		height: 22px;
+		width: 44px;
+		margin-top: 730px;
+		margin-left: 575px;
+	}
+
+	#Campione {
+		height: 22px;
+		width: 22px;
+		margin-top: 680px;
+		margin-left: 575px;
+	}
+
+	#Lugano {
+		height: 44px;
+		width: 22px;
+		margin-top: 620px;
+		margin-left: 530px;
+	}
+
+	#Rivera {
+		height: 22px;
+		width: 22px;
+		margin-top: 540px;
+		margin-left: 530px;
+	}
+
+	#Bellinzona {
+		height: 22px;
+		width: 44px;
+		margin-top: 440px;
+		margin-left: 530px;
+	}
+
+	#Tenero {
+		height: 22px;
+		width: 22px;
+		margin-top: 470px;
+		margin-left: 460px;
+	}
+
+	#Locarno {
+		height: 22px;
+		width: 44px;
+		margin-top: 470px;
+		margin-left: 370px;
+	}
+
+	#Sonogno {
+		height: 22px;
+		width: 22px;
+		margin-top: 340px;
+		margin-left: 460px;
+	}
+
+	#Maggia {
+		height: 22px;
+		width: 22px;
+		margin-top: 400px;
+		margin-left: 370px;
+	}
+
+	#Biasca {
+		height: 22px;
+		width: 22px;
+		margin-top: 320px;
+		margin-left: 530px;
+	}
+
+	#Ambrì {
+		height: 22px;
+		width: 22px;
+		margin-top: 220px;
+		margin-left: 420px;
+	}
+
+	#Airolo {
+		height: 22px;
+		width: 22px;
+		margin-top: 220px;
+		margin-left: 300px;
+	}
+
+	#Gottardo {
+		height: 22px;
+		width: 22px;
+		margin-top: 130px;
+		margin-left: 300px;
+	}
+
+.route {
+	position: absolute;
+	background-color: rgb(255, 200, 0);
+}
+
+	.route:hover {
+		background-color: rgb(230, 180, 0);
+	}
+
+	.route:active {
+		background-color: rgb(255, 230, 60);
+	}
+
+	#route001 {
+		height: 18px;
+		width: 25px;
+		margin-top: 770px;
+		margin-left: 575px;
+	}
+
+	#route002 {
+		height: 20px;
+		width: 18px;
+		margin-top: 750px;
+		margin-left: 578px;
+	}
+
+	#route003 {
+		height: 30px;
+		width: 18px;
+		margin-top: 700px;
+		margin-left: 578px;
+	}
+
+	#route004 {
+		height: 18px;
+		width: 50px;
+		margin-top: 682.5px;
+		margin-left: 532.5px;
+	}
+
+	#route005 {
+		height: 22.5px;
+		width: 18px;
+		margin-top: 660px;
+		margin-left: 532.5px;
+	}
+
+	#route006 {
+		height: 60px;
+		width: 18px;
+		margin-top: 560px;
+		margin-left: 532.5px;
+	}
+
+	#route007 {
+		height: 80px;
+		width: 18px;
+		margin-top: 460px;
+		margin-left: 532.5px;
+	}
+
+	#route008 {
+		height: 18px;
+		width: 52.5px;
+		margin-top: 472.5px;
+		margin-left: 480px;
+	}
+
+	#route009 {
+		height: 110px;
+		width: 18px;
+		margin-top: 360px;
+		margin-left: 462.5px;
+	}
+
+	#route010 {
+		height: 18px;
+		width: 100px;
+		margin-top: 342.5px;
+		margin-left: 372.5px;
+	}
+
+	#route011 {
+		height: 60px;
+		width: 18px;
+		margin-top: 342.5px;
+		margin-left: 372.5px;
+	}
+
+	#route012 {
+		height: 50px;
+		width: 18px;
+		margin-top: 420px;
+		margin-left: 372.5px;
+	}
+
+	#route013 {
+		height: 18px;
+		width: 50px;
+		margin-top: 472.5px;
+		margin-left: 410px;
+	}
+
+	#route014 {
+		height: 100px;
+		width: 18px;
+		margin-top: 340px;
+		margin-left: 532.5px;
+	}
+
+	#route015 {
+		height: 100px;
+		width: 18px;
+		margin-top: 240px;
+		margin-left: 532.5px;
+	}
+
+	#route016 {
+		height: 18px;
+		width: 110.5px;
+		margin-top: 222.5px;
+		margin-left: 440px;
+	}
+
+	#route017 {
+		height: 18px;
+		width: 100px;
+		margin-top: 222.5px;
+		margin-left: 320px;
+	}
+
+	#route018 {
+		height: 90px;
+		width: 18px;
+		margin-top: 150px;
+		margin-left: 302.5px;
+	}
