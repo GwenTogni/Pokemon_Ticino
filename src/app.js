@@ -22,7 +22,7 @@ function city002(){
 function city003(){
   document.getElementById('description').style.display = "block";
   document.getElementById('title').innerHTML = 'MENDRISIO';
-  document.getElementById('generic').innerHTML = 'Terza città. Città fantasma.';
+  document.getElementById('generic').innerHTML = 'Terza città. Città fantasma. È presente un negozio di biciclette dove potrai acquistarne una, in offerta al prezzo di 2 (ma attenzione a non fartela rubare dal Team Rocket!)';
   document.getElementById('gym').innerHTML = 'PALESTRA: spettro.';
   document.getElementById('special').innerHTML = '';
 }
@@ -123,7 +123,7 @@ function route001(){
 function route002(){
   document.getElementById('description').style.display = "block";
   document.getElementById('title').innerHTML = 'PERCORSO 002';
-  document.getElementById('generic').innerHTML = '';
+  document.getElementById('generic').innerHTML = 'Tratta piuttosto noiosa. È consigliabile indossare delle SCARPE DA CORSA in modo da annoiarsi per meno tempo.';
   document.getElementById('gym').innerHTML = '';
   document.getElementById('special').innerHTML = '';
 }
@@ -165,7 +165,7 @@ function route007(){
 function route008(){
   document.getElementById('description').style.display = "block";
   document.getElementById('title').innerHTML = 'PERCORSO 008';
-  document.getElementById('generic').innerHTML = '';
+  document.getElementById('generic').innerHTML = 'Un tempo per attraversare quest\'area era necassario usare SURF. Ora, grazie al lavoro dei pokémon di tipo terra, non più.';
   document.getElementById('gym').innerHTML = '';
   document.getElementById('special').innerHTML = '';
 }
