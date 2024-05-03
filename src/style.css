@@ -3,6 +3,10 @@ html {
 	font-family:Arial, Helvetica, sans-serif;
 }
 
+span {
+	color: rgb(150, 150, 150);
+}
+
 #title {
 	font-size: 18pt;
 }
@@ -16,15 +20,15 @@ img {
 	position: absolute;
 	margin-left: 900px;
 	margin-top: 200px;
-	min-height: 200px;
 	width: 300px;
 	border-style: solid;
-	border-color: rgb(0, 0, 0);
+	border-color: rgb(150, 150, 150);
 	border-radius: 3px;
 	padding: 20px;
 	display: none;
 }
 
+/* city */
 .city {
 	position: absolute;
 	background-color: rgb(255, 0, 0);
@@ -37,8 +41,8 @@ img {
 		background-color: rgb(200, 0, 0);
 	}
 
-	.city:active {
-		background-color: rgb(255, 50, 50);
+	.city:focus {
+		background-color: rgb(255, 80, 80);
 	}
 
 	#Stabio {
@@ -146,16 +150,18 @@ img {
 		margin-left: 300px;
 	}
 
+/* route */
 .route {
 	position: absolute;
 	background-color: rgb(255, 200, 0);
+	border: none;
 }
 
 	.route:hover {
 		background-color: rgb(230, 180, 0);
 	}
 
-	.route:active {
+	.route:focus {
 		background-color: rgb(255, 230, 60);
 	}
 
@@ -283,4 +289,49 @@ img {
 		width: 18px;
 		margin-top: 150px;
 		margin-left: 302.5px;
+	}
+
+/* places */
+.place {
+	position: absolute;
+	background-color: rgb(0, 255, 0);
+	border-radius: 4px;
+	border-style: solid;
+	border-color: rgb(255, 255, 255);
+}
+
+	.place:hover {
+		background-color: rgb(0, 200, 0);
+	}
+
+	.place:focus {
+		background-color: rgb(150, 255, 150);
+	}
+
+	#grottaCeneri {
+		height: 15px;
+		width: 15px;
+		margin-top: 525px;
+		margin-left: 533.5px;
+	}
+
+	#zonaSafari {
+		height: 15px;
+		width: 15px;
+		margin-top: 490px;
+		margin-left: 490px;
+	}
+
+	#centrale {
+		height: 15px;
+		width: 15px;
+		margin-top: 208px;
+		margin-left: 470px;
+	}
+
+	#viaVittoria {
+		height: 15px;
+		width: 15px;
+		margin-top: 150px;
+		margin-left: 303.5px;
 	}
