@@ -387,7 +387,7 @@ img {
 	#Lugano {
 		height: 30px;
 		width: 15px;
-		margin-top: 290px;
+		margin-top: 285px;
 		margin-left: 205px;
 	}
 
@@ -479,113 +479,142 @@ img {
 	#route003 {
 		height: 30px;
 		width: 15px;
-		margin-top: 700px;
-		margin-left: 578px;
+		margin-top: 330px;
+		margin-left: 228px;
 	}
 
 	#route004 {
 		height: 15px;
-		width: 50px;
-		margin-top: 682.5px;
-		margin-left: 532.5px;
+		width: 30px;
+		margin-top: 325px;
+		margin-left: 205px;
 	}
 
 	#route005 {
-		height: 22.5px;
+		height: 15px;
 		width: 15px;
-		margin-top: 660px;
-		margin-left: 532.5px;
+		margin-top: 310px;
+		margin-left: 205px;
 	}
 
 	#route006 {
-		height: 60px;
+		height: 25px;
 		width: 15px;
-		margin-top: 560px;
-		margin-left: 532.5px;
+		margin-top: 265px;
+		margin-left: 205px;
 	}
 
 	#route007 {
-		height: 80px;
+		height: 45px;
 		width: 15px;
-		margin-top: 460px;
-		margin-left: 532.5px;
+		margin-top: 215px;
+		margin-left: 205px;
 	}
 
 	#route008 {
 		height: 15px;
-		width: 52.5px;
-		margin-top: 472.5px;
-		margin-left: 480px;
+		width: 25px;
+		margin-top: 220px;
+		margin-left: 180px;
 	}
 
 	#route009 {
-		height: 110px;
+		height: 60px;
 		width: 15px;
-		margin-top: 360px;
-		margin-left: 462.5px;
+		margin-top: 160px;
+		margin-left: 170px;
 	}
 
 	#route010 {
 		height: 15px;
-		width: 100px;
-		margin-top: 342.5px;
-		margin-left: 372.5px;
+		width: 55px;
+		margin-top: 150px;
+		margin-left: 120px;
 	}
 
 	#route011 {
-		height: 60px;
+		height: 40px;
 		width: 15px;
-		margin-top: 342.5px;
-		margin-left: 372.5px;
+		margin-top: 150px;
+		margin-left: 120px;
 	}
 
 	#route012 {
-		height: 50px;
+		height: 35px;
 		width: 15px;
-		margin-top: 420px;
-		margin-left: 372.5px;
+		margin-top: 190px;
+		margin-left: 120px;
 	}
 
 	#route013 {
 		height: 15px;
-		width: 50px;
-		margin-top: 472.5px;
-		margin-left: 410px;
+		width: 30px;
+		margin-top: 220px;
+		margin-left: 145px;
 	}
 
 	#route014 {
-		height: 100px;
+		height: 60px;
 		width: 15px;
-		margin-top: 340px;
-		margin-left: 532.5px;
+		margin-top: 150px;
+		margin-left: 205px;
 	}
 
 	#route015 {
-		height: 100px;
+		height: 55px;
 		width: 15px;
-		margin-top: 240px;
-		margin-left: 532.5px;
+		margin-top: 90px;
+		margin-left: 205px;
 	}
 
 	#route016 {
 		height: 15px;
-		width: 110.5px;
-		margin-top: 222.5px;
-		margin-left: 440px;
+		width: 55px;
+		margin-top: 90px;
+		margin-left: 150px;
 	}
 
 	#route017 {
 		height: 15px;
-		width: 100px;
-		margin-top: 222.5px;
-		margin-left: 320px;
+		width: 55px;
+		margin-top: 90px;
+		margin-left: 100px;
 	}
 
 	#route018 {
-		height: 90px;
+		height: 50px;
 		width: 15px;
-		margin-top: 150px;
-		margin-left: 302.5px;
+		margin-top: 55px;
+		margin-left: 90px;
+	}
+
+/* places */
+	#grottaCeneri {
+		height: 15px;
+		width: 15px;
+		margin-top: 240px;
+		margin-left: 205px;
+	}
+
+	#zonaSafari {
+		height: 15px;
+		width: 15px;
+		margin-top: 235px;
+		margin-left: 180px;
+	}
+
+	#centrale {
+		height: 15px;
+		width: 15px;
+		margin-top: 75px;
+		margin-left: 170px;
+	}
+
+	#viaVittoria {
+		height: 15px;
+		width: 15px;
+		margin-top: 65px;
+		margin-left: 90px;
 	}
 
 }
